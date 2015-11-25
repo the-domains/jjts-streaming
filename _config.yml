@@ -1,0 +1,28 @@
+name: JJTS-Streaming
+favicon: null
+layout_spectrum: 0.8481399461161345
+typography_spectrum: 0.22538894275203347
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8374570403248072
+  lightness: 0.30532783712260425
+  saturation: 0.9940997962839901
+  rhythmicContrast: 0.9423419886734337
+purpose: []
