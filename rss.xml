@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[JJTS-Streaming]]></title>
         <description><![CDATA[JJTS-Streaming]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jjts-streaming/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 23:42:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 Nov 2015 23:46:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jjts-streaming/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Web Streaming is one of the fastest growth areas in our field today. Once only available to truly massive businesses with huge marketing budgets it’s now in everyone’s reach thanks to technology marching on and the availability of high speed broadband on a global scale.</p>]]></description>
+            <link>https://thegrid.ai/jjts-streaming/bf1ab9d5-d209-4bcf-8dda-9933fe506bbf/index.html</link>
+            <guid isPermaLink="false">bf1ab9d5-d209-4bcf-8dda-9933fe506bbf</guid>
+            <pubDate>Wed, 25 Nov 2015 23:46:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Experts Agree You Should Live Stream Your Event]]></title>
             <description><![CDATA[<article><h1>The Experts Agree You Should Live Stream Your Event</h1><p>Back in June, we wrote ' Why you should provide a live video stream of your event' that detailed some examples of events offering live video streams over the Internet. We also listed some of the burgeoning services venues could use and, most importantly of all, how to live stream your event for a profit as a online ticket package.</p><img src="http://www.thundertix.com/wp-content/uploads/2012/12/the-experts-agree.jpg"></article>]]></description>
