@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.thundertix.com/live-music-ticket-sales/the-experts-agree-live-stream-your-event/'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - video
   - thundertix
 description: "Back in June, we wrote ' Why you should provide a live video stream of your event' that detailed some examples of events offering live video streams over the Internet. We also listed some of the burgeoning services venues could use and, most importantly of all, how to live stream your event for a profit as a online ticket package."
-datePublished: '2015-11-26T15:53:13.577Z'
-dateModified: '2015-11-26T01:39:06.503Z'
+datePublished: '2015-11-26T16:41:35.881Z'
+dateModified: '2015-11-26T16:41:21.252Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: www.thundertix.com
   url: 'http://www.thundertix.com'
   favicon: 'http://www.thundertix.com/wp-content/uploads/2015/02/favicon.png'
+url: the-experts-agree-you-should-live-stream-your-event/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
