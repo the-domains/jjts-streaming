@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
@@ -16,8 +16,8 @@ keywords:
   - behind-the-stage
   - lavelle
 description: 'The live event will be hosted by BBC reporter Phil Lavelle and kicked off by DALI CEO, Lars Worre, who will give a short introduction to the features of the OPTICON series. What comes after, you will just have to tune-in to find out, but we can assure you it is about quality sound and music - all live!'
-datePublished: '2015-11-26T16:41:29.203Z'
-dateModified: '2015-11-26T16:40:55.933Z'
+datePublished: '2015-11-26T16:47:40.966Z'
+dateModified: '2015-11-26T16:47:38.420Z'
 author: []
 related: []
 app_links: []
