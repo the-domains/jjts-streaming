@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://jjtechservices.co.uk/on-the-road-again/'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - route
   - solutions
 description: "Well. The year hasn't even finished yet and we've been all over Europe already! Some of it has been on location working on feature films, we've done a couple of pharmaceutical road shows. We built a pretty cool one off audience response system which was quite challenging!"
-datePublished: '2015-11-26T17:00:38.253Z'
-dateModified: '2015-11-26T17:00:35.834Z'
+datePublished: '2015-11-26T17:04:40.009Z'
+dateModified: '2015-11-26T17:04:36.603Z'
 author: []
 related: []
 app_links: []
@@ -30,7 +31,6 @@ publisher:
   domain: jjtechservices.co.uk
   url: 'http://jjtechservices.co.uk'
   favicon: 'http://jjtechservices.co.uk/wp-content/themes/concise-master/images/favicon.ico'
-url: on-the-road-again-jj-technical-services/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
