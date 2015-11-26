@@ -4,7 +4,7 @@
         <description><![CDATA[JJTS Web Streaming & Broadcast]]></description>
         <link>https://thegrid.ai/jjts-streaming/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 Nov 2015 17:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2015 17:05:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jjts-streaming/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How can JJTS help you?]]></title>
@@ -30,9 +30,9 @@
         <item>
             <title><![CDATA[On the Road Again! Blog Post]]></title>
             <description><![CDATA[<article><h1>On the Road Again! Blog Post</h1><p>Well. The year hasn't even finished yet and we've been all over Europe already! Some of it has been on location working on feature films, we've done a couple of pharmaceutical road shows. We built a pretty cool one off audience response system which was quite challenging!</p><img src="http://jjtechservices.co.uk/wp-content/uploads/2015/09/On-The-Road-Again.png"></article>]]></description>
-            <link>https://thegrid.ai/jjts-streaming/on-the-road-again-jj-technical-services/index.html</link>
+            <link>http://jjtechservices.co.uk/on-the-road-again/</link>
             <guid isPermaLink="false">cc3c6067-fb1e-4562-bff9-ef97eb667414</guid>
-            <pubDate>Thu, 26 Nov 2015 17:00:38 GMT</pubDate>
+            <pubDate>Thu, 26 Nov 2015 17:04:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
