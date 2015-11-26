@@ -1,7 +1,7 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - route
   - solutions
 description: "Well. The year hasn't even finished yet and we've been all over Europe already! Some of it has been on location working on feature films, we've done a couple of pharmaceutical road shows. We built a pretty cool one off audience response system which was quite challenging!"
-datePublished: '2015-11-26T16:41:25.378Z'
-dateModified: '2015-11-26T16:40:45.859Z'
+datePublished: '2015-11-26T16:47:26.906Z'
+dateModified: '2015-11-26T16:47:22.293Z'
 author: []
 related: []
 app_links: []
