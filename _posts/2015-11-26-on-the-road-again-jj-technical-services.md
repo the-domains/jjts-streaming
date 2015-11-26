@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://jjtechservices.co.uk'
-  name: JJ Technical Services
-  favicon: 'http://jjtechservices.co.uk/wp-content/themes/concise-master/images/favicon.ico'
-  domain: jjtechservices.co.uk
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - sometimes
   - webcast
@@ -18,17 +16,21 @@ keywords:
   - route
   - solutions
 description: "Well. The year hasn't even finished yet and we've been all over Europe already! Some of it has been on location working on feature films, we've done a couple of pharmaceutical road shows. We built a pretty cool one off audience response system which was quite challenging!"
-inLanguage: en
+datePublished: '2015-11-26T16:41:25.378Z'
+dateModified: '2015-11-26T16:40:45.859Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://jjtechservices.co.uk/on-the-road-again/'
 title: 'On the Road Again! - JJ Technical Services'
-datePublished: '2015-11-26T00:34:50.951Z'
-dateModified: '2015-11-26T00:34:22.420Z'
 sourcePath: _posts/2015-11-26-on-the-road-again-jj-technical-services.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: JJ Technical Services
+  domain: jjtechservices.co.uk
+  url: 'http://jjtechservices.co.uk'
+  favicon: 'http://jjtechservices.co.uk/wp-content/themes/concise-master/images/favicon.ico'
+url: on-the-road-again-jj-technical-services/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
