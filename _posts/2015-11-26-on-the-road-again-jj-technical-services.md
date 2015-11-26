@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -16,12 +16,12 @@ keywords:
   - route
   - solutions
 description: "Well. The year hasn't even finished yet and we've been all over Europe already! Some of it has been on location working on feature films, we've done a couple of pharmaceutical road shows. We built a pretty cool one off audience response system which was quite challenging!"
-datePublished: '2015-11-26T16:47:26.906Z'
-dateModified: '2015-11-26T16:47:22.293Z'
+datePublished: '2015-11-26T16:51:56.521Z'
+dateModified: '2015-11-26T16:51:54.145Z'
 author: []
 related: []
 app_links: []
-title: 'On the Road Again! - JJ Technical Services'
+title: 'On the Road Again! Blog Post'
 sourcePath: _posts/2015-11-26-on-the-road-again-jj-technical-services.md
 published: true
 authors: []
