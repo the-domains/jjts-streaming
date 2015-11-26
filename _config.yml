@@ -2,6 +2,7 @@ name: JJTS-Streaming
 favicon: null
 layout_spectrum: 0.25127
 typography_spectrum: 0.45403
+title: 'JJTS Web Streaming & Broadcast'
 cta:
   domain: null
   bucket: null
