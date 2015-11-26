@@ -16,8 +16,8 @@ keywords:
   - route
   - solutions
 description: "Well. The year hasn't even finished yet and we've been all over Europe already! Some of it has been on location working on feature films, we've done a couple of pharmaceutical road shows. We built a pretty cool one off audience response system which was quite challenging!"
-datePublished: '2015-11-26T16:51:56.521Z'
-dateModified: '2015-11-26T16:51:54.145Z'
+datePublished: '2015-11-26T17:00:38.253Z'
+dateModified: '2015-11-26T17:00:35.834Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>On the Road Again&amp;excl; - JJ Technical Services</h1><p>Well&amp;period; The year hasn't even finished yet and we've been all over Europe already&amp;excl; Some of it has been on location working on feature films&amp;comma; we've done a couple of pharmaceutical road shows&amp;period; We built a pretty cool one off audience response system which was quite challenging&amp;excl;</p><img src="http://jjtechservices.co.uk/wp-content/uploads/2015/09/On-The-Road-Again.png" /></article>
+<article style=""><h1>On the Road Again!</h1><p>Well. The year hasn't even finished yet and we've been all over Europe already! Some of it has been on location working on feature films, we've done a couple of pharmaceutical road shows. We built a pretty cool one off audience response system which was quite challenging!</p><img src="http://jjtechservices.co.uk/wp-content/uploads/2015/09/On-The-Road-Again.png" /></article>
