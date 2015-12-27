@@ -1,7 +1,7 @@
 name: JJTS-Streaming
 favicon: null
-layout_spectrum: 0.58809
-typography_spectrum: 0.45403
+layout_spectrum: 0.20078
+typography_spectrum: 0.5759
 title: 'JJTS Web Streaming & Broadcast'
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#f0f2fe'
     - '#7a87f9'
     - '#404560'
-  brandStrength: 0.1875
+  brandStrength: 0.75
   lightness: 0.75
   saturation: 0.4375
   rhythmicContrast: 0.75
