@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is how to get in touch with JJTS
-datePublished: '2015-12-27T22:52:20.782Z'
-dateModified: '2015-12-27T22:51:26.477Z'
+datePublished: '2015-12-27T23:11:17.323Z'
+dateModified: '2015-12-27T23:11:10.733Z'
 title: Our Contact Details
 author: []
 sourcePath: _posts/2015-12-27-our-contact-details.md
@@ -28,7 +28,7 @@ _type: Article
 
 If it's time to get this show on the road give us a call or drop us an e-mail
 
-> For a speedy response give us a call on: +44 (0) 203 598 6574
+> For a speedy response give us a call on: 0203 598 6574
 
 If you want to talk to one of us directly, it's their name @jjtechservices.co.uk
 
