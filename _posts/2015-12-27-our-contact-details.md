@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is how to get in touch with JJTS
-datePublished: '2015-12-27T23:22:14.153Z'
-dateModified: '2015-12-27T23:22:11.203Z'
+datePublished: '2015-12-27T23:28:41.876Z'
+dateModified: '2015-12-27T23:28:38.919Z'
 title: Our Contact Details
 author: []
 sourcePath: _posts/2015-12-27-our-contact-details.md
@@ -26,12 +26,11 @@ _type: WebPage
 
 # Our Contact Details
 
-If it's time to get this show on the road give us a call or drop us an e-mail
+> If it's time to get this show on the road give us a call or drop us an e-mail
 
-> For a speedy response give us a call on: 0203 598 6574
+For a speedy response give us a call on: 0203 598 6574
 
-> If you want to talk to one of us directly, it's their name @jjtechservices.co.uk
+If you want to talk to one of us directly, it's their name @jjtechservices.co.uk
 
-> There's Mike, Our video producer. Abi, Production assistant & James, the Technical manager available to deal with your requests
-
+There's Mike, Our video producer. Abi, Production assistant & James, the Technical manager available to deal with your requests
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bac1335828fc2da139bc5f208eb84d7a917ebd0.png)
