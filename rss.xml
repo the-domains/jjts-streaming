@@ -4,8 +4,15 @@
         <description><![CDATA[JJTS Web Streaming & Broadcast]]></description>
         <link>https://thegrid.ai/jjts-streaming/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 23:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 16:34:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jjts-streaming/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Contact Details]]></title>
+            <description><![CDATA[<article><h1>Our Contact Details</h1><p>This is how to get in touch with JJTS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eae365748241b400acc4005ec8e71870ff383b17.png"></article>]]></description>
+            <link>https://thegrid.ai/jjts-streaming/our-contact-details/index.html</link>
+            <guid isPermaLink="false">4e13b4ff-734d-497d-97b8-2d7e572d8dd1</guid>
+            <pubDate>Mon, 28 Dec 2015 16:29:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How can JJTS help you?]]></title>
             <description><![CDATA[<article><h1>How can JJTS help you?</h1><p>Web Streaming is one of the fastest growth areas in our field today. Once only available to truly massive businesses with huge marketing budgets it’s now in everyone’s reach thanks to technology marching on and the availability of high speed broadband on a global scale.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/688195d26b6bc293b79f8005249c66d77bd33b5b.jpg"></article>]]></description>
@@ -22,10 +29,10 @@
         </item>
         <item>
             <title><![CDATA[DALI OPTICON event - Live From London]]></title>
-            <description><![CDATA[<article><h1>DALI OPTICON event - Live From London</h1><p>The live event will be hosted by BBC reporter Phil Lavelle and kicked off by DALI CEO, Lars Worre, who will give a short introduction to the features of the OPTICON series. What comes after, you will just have to tune-in to find out, but we can assure you it is about quality sound and music - all live!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76beb25c4738aaeb85f7a86e853faf1632de1e66.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jjts-streaming/dali-opticon-event-live-from-london/index.html</link>
+            <description><![CDATA[<article><h1>DALI OPTICON event - Live From London</h1><p>The live event will be hosted by BBC reporter Phil Lavelle and kicked off by DALI CEO, Lars Worre, who will give a short introduction to the features of the OPTICON series. What comes after, you will just have to tune-in to find out, but we can assure you it is about quality sound and music - all live!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2873f6bc649f76817783d887fa2a33e4897fb2d9.jpg"></article>]]></description>
+            <link>http://dali-live.com/</link>
             <guid isPermaLink="false">7acb04d0-6216-470f-95e4-e63d169f3a78</guid>
-            <pubDate>Sun, 27 Dec 2015 23:32:22 GMT</pubDate>
+            <pubDate>Mon, 28 Dec 2015 16:33:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
