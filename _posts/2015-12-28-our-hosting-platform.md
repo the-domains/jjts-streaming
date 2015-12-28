@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-28T16:54:40.377Z'
-dateModified: '2015-12-28T16:54:21.105Z'
+datePublished: '2015-12-28T21:09:23.671Z'
+dateModified: '2015-12-28T21:09:20.248Z'
 title: Our hosting platform
 author: []
+sourcePath: _posts/2015-12-28-our-hosting-platform.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-28-our-hosting-platform.md
-published: true
 url: our-hosting-platform/index.html
 _type: Article
 
