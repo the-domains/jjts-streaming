@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T11:36:50.688Z'
-dateModified: '2016-01-01T16:35:35.926Z'
+datePublished: '2016-01-13T13:04:35.183Z'
+dateModified: '2016-01-13T13:04:31.752Z'
 title: Our hosting platform
 author: []
 sourcePath: _posts/2015-12-28-our-hosting-platform.md
@@ -27,7 +27,7 @@ _type: Article
 Using a combination of the JJTS servers for the smaller events or one of our partners for the larger scale events, you're guaranteed a streamline solution no matter how many people you have watching your presentation.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/846c4790-83e0-4b60-9271-1b935214edb7.JPG)
 
-> We've created teleconference systems internationally
+**We've created teleconference systems internationally**
 
 Enabling an immersive experience that makes it feel like everyone involved is in the same room.
 
