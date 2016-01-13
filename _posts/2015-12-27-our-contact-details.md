@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: This is how to get in touch with JJTS
-datePublished: '2016-01-13T13:04:59.439Z'
-dateModified: '2016-01-13T13:04:56.083Z'
+datePublished: '2016-01-13T13:16:48.383Z'
+dateModified: '2016-01-13T13:16:42.595Z'
 title: Our Contact Details
 author: []
 sourcePath: _posts/2015-12-27-our-contact-details.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: our-contact-details/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8631ba8995a682c7653a049914c5fb6e31b62610.png)
