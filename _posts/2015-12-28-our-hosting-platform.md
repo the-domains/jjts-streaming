@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T13:04:35.183Z'
-dateModified: '2016-01-13T13:04:31.752Z'
+datePublished: '2016-01-14T11:09:13.249Z'
+dateModified: '2016-01-14T11:02:40.316Z'
 title: Our hosting platform
 author: []
 sourcePath: _posts/2015-12-28-our-hosting-platform.md
