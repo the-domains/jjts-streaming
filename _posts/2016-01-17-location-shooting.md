@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-17T17:07:50.918Z'
-dateModified: '2016-01-17T17:07:35.895Z'
+datePublished: '2016-01-17T17:14:22.581Z'
+dateModified: '2016-01-17T17:14:20.743Z'
 title: Location Shooting
 author: []
+sourcePath: _posts/2016-01-17-location-shooting.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-17-location-shooting.md
-published: true
 url: location-shooting/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Location Shooting
