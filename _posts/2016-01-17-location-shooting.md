@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T17:21:10.748Z'
-dateModified: '2016-01-17T17:21:09.038Z'
+datePublished: '2016-01-17T17:21:11.191Z'
+dateModified: '2016-01-17T17:21:10.741Z'
 title: Location Shooting
 author: []
 sourcePath: _posts/2016-01-17-location-shooting.md
