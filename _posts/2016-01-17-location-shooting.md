@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-17T17:14:22.789Z'
-dateModified: '2016-01-17T17:14:22.581Z'
+datePublished: '2016-01-17T17:21:10.414Z'
+dateModified: '2016-01-17T17:21:09.038Z'
 title: Location Shooting
 author: []
 sourcePath: _posts/2016-01-17-location-shooting.md
