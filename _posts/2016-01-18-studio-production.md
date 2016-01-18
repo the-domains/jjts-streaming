@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our work at TNT studios
-datePublished: '2016-01-18T18:59:29.613Z'
-dateModified: '2016-01-18T18:59:26.054Z'
+datePublished: '2016-01-18T19:00:54.704Z'
+dateModified: '2016-01-18T19:00:51.189Z'
 title: Studio Production
 author: []
 sourcePath: _posts/2016-01-18-studio-production.md
