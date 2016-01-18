@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our work at TNT studios
-datePublished: '2016-01-18T18:35:55.665Z'
-dateModified: '2016-01-18T18:35:39.181Z'
+datePublished: '2016-01-18T18:59:29.505Z'
+dateModified: '2016-01-18T18:59:26.054Z'
 title: Studio Production
 author: []
 sourcePath: _posts/2016-01-18-studio-production.md
@@ -23,6 +23,7 @@ _type: WebPage
 
 ---
 # Studio Production
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3aa3f9a6-62c8-41ed-9750-ff8de0adaba3.JPG)
 
 How could we talk about our work on video without mentioning the studio?
 
