@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Our work at TNT studios
-datePublished: '2016-01-18T18:31:29.847Z'
-dateModified: '2016-01-18T18:31:20.150Z'
+datePublished: '2016-01-18T18:35:55.642Z'
+dateModified: '2016-01-18T18:35:39.181Z'
 title: Studio Production
 author: []
+sourcePath: _posts/2016-01-18-studio-production.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-studio-production.md
-published: true
 url: studio-production/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Studio Production
