@@ -4,7 +4,7 @@
         <description><![CDATA[JJTS Web Streaming & Broadcast]]></description>
         <link>https://thegrid.ai/jjts-streaming/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 10:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 10:17:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jjts-streaming/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/jjts-streaming/how-can-jjts-help-you/index.html</link>
             <guid isPermaLink="false">bf1ab9d5-d209-4bcf-8dda-9933fe506bbf</guid>
             <pubDate>Sun, 17 Jan 2016 16:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Benefits of Webinar]]></title>
-            <description><![CDATA[<article><h1>Benefits of Webinar</h1><p>A webinar is a neologism, short for a Web-based Seminar, a presentation, lecture, workshop or seminar that is transmitted over the Web. It is typically one-way form of communication from the speaker to the audience with limited audience interaction primarily through chat. Most webinars are of the audio + PowerPoint + interactive type. A webinar can be collaborative and include polling and question and answer sessions to allow full participation between the audience and the presenter.</p></article>]]></description>
-            <link>https://thegrid.ai/jjts-streaming/what-is-a-webinar/index.html</link>
-            <guid isPermaLink="false">be76efc8-f012-40a1-98b7-f3ddf2893d05</guid>
-            <pubDate>Sun, 27 Dec 2015 13:56:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
