@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T10:48:53.645Z'
-dateModified: '2016-01-26T10:48:38.166Z'
+datePublished: '2016-01-26T14:43:48.802Z'
+dateModified: '2016-01-26T14:43:45.452Z'
 title: How to promote your Live stream
 author: []
+sourcePath: _posts/2016-01-26-how-to-promote-your-live-stream.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-26-how-to-promote-your-live-stream.md
-published: true
 url: how-to-promote-your-live-stream/index.html
 _type: Article
 
@@ -38,5 +38,3 @@ Importantly, don't hijack your own live stream. This is most relevant to event h
 ## Set a Goal
 
 Finally, set a goal for the projected outcome. Is this the first live stream in a series? If so make sure to mention when the next event might be. If you don't have the next one scheduled, at least inform viewers where they might find this information in the future. Getting an audience to come back again is always much easier, and cost effective, then getting a whole new audience.
-
-We have touched a bit on some of the early dos and don'ts. Expect the webinar to go more in-depth on all points.
