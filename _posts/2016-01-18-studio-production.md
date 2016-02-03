@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our work at TNT studios
-datePublished: '2016-01-26T10:53:58.818Z'
-dateModified: '2016-01-26T10:53:55.596Z'
+datePublished: '2016-02-03T15:01:35.863Z'
+dateModified: '2016-02-03T15:01:32.271Z'
 title: Studio Production
 author: []
 sourcePath: _posts/2016-01-18-studio-production.md
@@ -33,10 +33,19 @@ Stage 1 is 7m x 5m, 2 sided infinity white cyc. It's hosted animals, vehicles an
 
 Stage 2 is our pre-lit green screen stage always ready to go. It's 3.5m x 2.5m and painted chroma key green and evenly lit it makes the edit and VFX work a breeze.
 
-> We loved our day at the studio, the food was amazing! I know it's a really odd thing to comment on but the whole day was so smooth and the catering whenever we weren't shooting was superb
-> 
-> **Sian B, Reach**
-> 
-> ********
-> 
-> ****************
+at the studio
+
+> We loved our day at the studio, the food was amazing! I know it's a really odd thing to comment on but the whole day was so smooth and the catering whenever we weren't shooting was superb****Sian B, Reach****
+
+********
+
+Everyone you meet when you visit the studio has years in the industry and will make sure that your time on site is pleasant and fun.
+
+Plenty of space to chill out and get ready for action
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ef83d06-196b-4057-b412-63e94a1db95e.jpg)
+
+****
+
+********
+
+****************
