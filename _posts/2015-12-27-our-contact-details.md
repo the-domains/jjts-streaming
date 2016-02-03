@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is how to get in touch with JJTS
-datePublished: '2016-01-13T13:16:48.383Z'
-dateModified: '2016-01-13T13:16:42.595Z'
+datePublished: '2016-02-03T19:53:29.110Z'
+dateModified: '2016-02-03T19:53:26.544Z'
 title: Our Contact Details
 author: []
 sourcePath: _posts/2015-12-27-our-contact-details.md
@@ -34,4 +34,3 @@ If you want to talk to one of us directly, it's their name @jjtechservices.co.uk
 
 There's Mike, Our video producer. Abi, Production assistant & James, the Technical manager available to deal with your requests
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bac1335828fc2da139bc5f208eb84d7a917ebd0.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0326610-2d5f-405c-b0a4-e334710464e7.JPG)
