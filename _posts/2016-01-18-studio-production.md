@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our work at TNT studios
-datePublished: '2016-02-04T16:57:39.741Z'
-dateModified: '2016-02-04T16:57:36.679Z'
+datePublished: '2016-02-04T21:06:09.470Z'
+dateModified: '2016-02-04T21:06:06.244Z'
 title: Studio Production
 author: []
 sourcePath: _posts/2016-01-18-studio-production.md
@@ -40,13 +40,12 @@ at the studio
 ********
 
 Everyone you meet when you visit the studio has years in the industry and will make sure that your time on site is pleasant and fun.
-
-Plenty of space to chill out and get ready for action
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ef83d06-196b-4057-b412-63e94a1db95e.jpg)
+![Plenty of space to chill out and get ready for action](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aeffa89c6b98a0cc0461fd4c3d920bf5dd66a4b5.jpg)
 
 **Office Space**
 
 If you need a place to work while your shoot is taking place we have a boardroom space with Wi-Fi connectivity and a video feed to the studio so you can keep an eye on the action while you get things done!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73be38a1-606e-4635-ac50-4381be0edfa2.jpg)
 
 ****
 
