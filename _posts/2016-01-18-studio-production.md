@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Our work at TNT studios
-datePublished: '2016-02-04T21:06:09.470Z'
-dateModified: '2016-02-04T21:06:06.244Z'
+datePublished: '2016-02-05T09:54:46.231Z'
+dateModified: '2016-02-05T09:38:30.631Z'
 title: Studio Production
 author: []
 sourcePath: _posts/2016-01-18-studio-production.md
@@ -38,9 +38,9 @@ at the studio
 > We loved our day at the studio, the food was amazing! I know it's a really odd thing to comment on but the whole day was so smooth and the catering whenever we weren't shooting was superb****Sian B, Reach****
 
 ********
+![Plenty of space to chill out and get ready for action](https://s3-us-west-2.amazonaws.com/the-grid-img/p/14ed1cf040d13e9c35e9b31fa0ceab746439d2fd.jpg)
 
 Everyone you meet when you visit the studio has years in the industry and will make sure that your time on site is pleasant and fun.
-![Plenty of space to chill out and get ready for action](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aeffa89c6b98a0cc0461fd4c3d920bf5dd66a4b5.jpg)
 
 **Office Space**
 
