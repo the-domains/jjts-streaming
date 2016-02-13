@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is how to get in touch with JJTS
-datePublished: '2016-02-13T20:16:31.964Z'
-dateModified: '2016-02-13T20:15:15.646Z'
+datePublished: '2016-02-13T20:23:00.217Z'
+dateModified: '2016-02-13T20:22:58.016Z'
 title: Our Contact Details
 author: []
 sourcePath: _posts/2015-12-27-our-contact-details.md
