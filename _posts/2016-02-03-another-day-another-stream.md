@@ -7,10 +7,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-20T16:09:31.240Z'
-dateModified: '2016-02-20T16:09:07.565Z'
+datePublished: '2016-04-19T11:12:58.716Z'
+dateModified: '2016-04-19T11:04:40.752Z'
 title: Another day another stream
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-03-another-day-another-stream.md
 published: true
 authors: []
